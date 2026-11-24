@@ -1,0 +1,9 @@
+Django==6.0.6
+djangorestframework==3.16.1
+django-stubs
+django-environ
+django-vite
+inertia-django
+langchain-openai
+langgraph
+pydantic
